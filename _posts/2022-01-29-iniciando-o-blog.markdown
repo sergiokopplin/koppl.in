@@ -1,5 +1,5 @@
 ---
-title: "Iniciando o Blog"
+title: ":memo: Iniciando o Blog"
 layout: post
 date: 2022-01-29 19:00
 headerImage: false
