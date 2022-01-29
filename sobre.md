@@ -9,4 +9,4 @@ Trabalho como Engenheiro de Software na [Loft](https://loft.com.br/) desde 2019,
 No tempo livre sou musicista, mais especificamente baterista.
 Discípulo e membro da Igreja Presbiteriana, bora trocar ideia sobre Deus? Me chama!
 
-Conteúdo do Youtube e Spotify como baterista -> [aqui](https://linktr.ee/kopplin).
+Conteúdo do Youtube e Spotify -> [aqui](https://linktr.ee/kopplin).
