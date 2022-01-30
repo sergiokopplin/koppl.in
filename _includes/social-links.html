@@ -19,6 +19,12 @@
         </a>
     {% endif %}
 
+    {% if site.youtube %}
+        <a class="link" data-title="youtube.com/user/{{ site.youtube }}" href="https://www.youtube.com/user/{{ site.youtube }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-youtube"></i>
+        </a>
+    {% endif %}
+
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
             <i class="fa-brands fa-instagram"></i>
