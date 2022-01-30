@@ -34,11 +34,12 @@ disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: koppliin
 instagram: koppliin
 linkedin: kopplin
 github: sergiokopplin
 email: sergiokopplin@gmail.com
+linktree: kopplin
 
 authors:
   johndoe:
