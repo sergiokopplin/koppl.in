@@ -60,6 +60,7 @@ Produtividade
 - [Bateria Eletrônica Roland TD4](https://www.google.com/search?q=roland+td+4&oq=roland+td+4) - treinos em casa e estudo
 - [Pedal Duplo Demon Drive](https://pearldrum.com/global/products/drum-pedals/demon-drive-3000-series) - desde 2011 com ele, sem dúvida o melhor que já usei
 - [Interface de Áudio Scarlett Solo](https://focusrite.com/pt-br/usb-audio-interface/scarlett/scarlett-solo) - para conectar guitarra e bateria no pc
+- [Retorno Anker Q30](https://www.anker.com/products/variant/life-q30/A3028011) - o mesmo que uso para trabalho
 
 <div class="breaker"></div>
 
