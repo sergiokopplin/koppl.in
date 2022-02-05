@@ -54,7 +54,12 @@ Produtividade
 
 ### *Música*
 
-*todo*.
+#### Bateria
+
+- [Baquetas Vic Firth 5A](https://vicfirth.zildjian.com/sticks1/drumset/american-classic.html) - minha baqueta definitiva, tenho inclusive as pretas. Sempre ponta de madeira
+- [Bateria Eletrônica Roland TD4](https://www.google.com/search?q=roland+td+4&oq=roland+td+4) - treinos em casa e estudo
+- [Pedal Duplo Demon Drive](https://pearldrum.com/global/products/drum-pedals/demon-drive-3000-series) - desde 2011 com ele, sem dúvida o melhor que já usei
+- [Interface de Áudio Scarlett Solo](https://focusrite.com/pt-br/usb-audio-interface/scarlett/scarlett-solo) - para conectar guitarra e bateria no pc
 
 <div class="breaker"></div>
 
