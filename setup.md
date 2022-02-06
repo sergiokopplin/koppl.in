@@ -27,7 +27,7 @@ Trabalho
 
 Outros
 - [Samsung S10 FE](https://www.samsung.com/br/smartphones/galaxy-s20/galaxy-s20-fe/) - smarthphone Android
-- [Kindle](https://www.amazon.com.br/kindle/s?k=kindle) - o normal mesmo
+- [Kindle Paperwhite 10ª Geração](https://www.amazon.com.br/kindle/s?k=kindle) - bom ter luz na tela para ler no escuro
 
 #### Software
 
@@ -35,6 +35,7 @@ Código
 - [VSCode](https://code.visualstudio.com/) - editor
 - [iTerm2](https://iterm2.com/) - terminal
 - [ohmyzsh](https://ohmyz.sh/) - acabamento do terminal
+- [.dotfiles](https://github.com/sergiokopplin/.dotfiles) - para linux e macos
 
 Apps
 - [1Password](https://1password.com/pt/) - gerenciamento de senhas
