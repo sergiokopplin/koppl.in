@@ -1,5 +1,5 @@
 ---
-title: ":memo: Hábitos Atômicos - Resumo"
+title: ":book: Hábitos Atômicos - Resumo"
 layout: post
 date: 2022-02-08 20:55
 headerImage: false
