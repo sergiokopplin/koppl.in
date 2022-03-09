@@ -25,6 +25,7 @@ Trabalho
 - [Mouse Logitech Vertical](https://www.logitech.com/pt-br/products/mice/mx-vertical-ergonomic-mouse.910-005447.html) - para uma melhor ergonomia dos pulsos
 - [Anker Q30 Headphones](https://www.anker.com/products/variant/life-q30/A3028011) - custo benefício para cancelamento de ruído ativo e longa bateria
 - [Webcam Logitech C922](https://www.logitech.com/pt-br/products/webcams/c922-pro-stream-webcam.html) - melhor que usar a câmera do macbook. Eu estava usando via IriunCam com Android, mas é muito trabalhoso
+- [Microfone Fifine T669](https://www.fifinemicrofones.com.br/collections/mais-vendidos/products/microfone-condensador-fifine-usb-t669-com-kit-de-estudio-2) - para melhor captação de som, microfone do macbook é sofrimento
 
 Outros
 - [Samsung S10 FE](https://www.samsung.com/br/smartphones/galaxy-s20/galaxy-s20-fe/) - smarthphone Android
