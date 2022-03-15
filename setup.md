@@ -59,7 +59,7 @@ Apps
 Produtividade
 
 -   [Cold Turkey](https://getcoldturkey.com/) - foco na navegação, bloqueio de endereços
--   [Habitify](https://www.habitify.me/) - hábitos e foco
+-   [Fabulous](https://www.thefabulous.co/) - hábitos e foco
 -   [Notion](https://www.notion.so/pt-br) - anotações de livros e estudos
 -   [Todoist](https://todoist.com/) - tarefas simplificadas
 -   [Forest](https://www.forestapp.cc/) - pomodoro e foco
