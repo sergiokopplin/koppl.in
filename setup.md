@@ -7,7 +7,7 @@ layout: page
 
 ---
 
-## Hardware, Software e Outros para _trabalho_, _música_ e _espiritualidade_
+## Hardware, Software e Outros para _trabalho_ e _escritório_
 
 <div class="breaker"></div>
 
@@ -63,21 +63,3 @@ Produtividade
 -   [Notion](https://www.notion.so/pt-br) - anotações de livros e estudos
 -   [Todoist](https://todoist.com/) - tarefas simplificadas
 -   [Forest](https://www.forestapp.cc/) - pomodoro e foco
-
-<div class="breaker"></div>
-
-### _Música_
-
-#### Bateria
-
--   [Baquetas Vic Firth 5A](https://vicfirth.zildjian.com/sticks1/drumset/american-classic.html) - minha baqueta definitiva, tenho inclusive as pretas. Sempre ponta de madeira
--   [Bateria Eletrônica Roland TD4](https://www.google.com/search?q=roland+td+4&oq=roland+td+4) - treinos em casa e estudo
--   [Pedal Duplo Demon Drive](https://pearldrum.com/global/products/drum-pedals/demon-drive-3000-series) - desde 2011 com ele, sem dúvida o melhor que já usei
--   [Interface de Áudio Scarlett Solo](https://focusrite.com/pt-br/usb-audio-interface/scarlett/scarlett-solo) - para conectar guitarra e bateria no pc
--   [Retorno Anker Q30](https://www.anker.com/products/variant/life-q30/A3028011) - o mesmo que uso para trabalho
-
-<div class="breaker"></div>
-
-### _Espiritualidade_
-
-_todo_.
