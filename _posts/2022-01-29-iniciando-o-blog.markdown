@@ -1,5 +1,5 @@
 ---
-title: ":memo: Iniciando o Blogue"
+title: ":memo: Iniciando o Blog"
 layout: post
 date: 2022-01-29 19:00
 headerImage: false
@@ -8,7 +8,7 @@ tag:
 star: false
 category: blog
 author: sergiokopplin
-description: Post Inicial do meu Blogue Pessoal
+description: Post Inicial do meu Blog Pessoal
 ---
 
 ## Novo Reinício
