@@ -73,10 +73,10 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
-notas: true
-setup: true
+about: false
+blog: false
+notas: false
+setup: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
