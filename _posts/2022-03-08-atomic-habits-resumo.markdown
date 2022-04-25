@@ -10,6 +10,7 @@ star: false
 category: notas
 author: sergiokopplin
 description: Resumo do livro Hábitos Atômicos
+hidden: true
 ---
 
 # Hábitos Atômicos - [Link na Amazon](https://www.amazon.com.br/H%C3%A1bitos-At%C3%B4micos-M%C3%A9todo-Comprovado-Livrar/dp/8550807567)

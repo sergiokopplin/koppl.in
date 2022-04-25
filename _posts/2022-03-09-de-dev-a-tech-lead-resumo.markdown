@@ -10,6 +10,7 @@ star: false
 category: notas
 author: sergiokopplin
 description: Resumo do livro De Dev a Tech Lead
+hidden: true
 ---
 
 # De Dev a Tech Lead - [Link na Amazon](https://de-dev-a-tech-lead.techleadership.rocks/)

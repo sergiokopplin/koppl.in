@@ -9,6 +9,7 @@ star: false
 category: blog
 author: sergiokopplin
 description: Post Inicial do meu Blog Pessoal
+hidden: true
 ---
 
 ## Novo Reinício
