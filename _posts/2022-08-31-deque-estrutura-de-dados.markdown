@@ -10,7 +10,6 @@ star: false
 category: blog
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Deque
-hidden: false
 ---
 
 ## Descrição

@@ -1,7 +1,7 @@
 ---
 title: "Estrutura de Dados - Pilha"
 layout: post
-date: 2022-08-31
+date: 2022-08-29
 headerImage: false
 tag:
     - estrutura de dados
@@ -10,7 +10,6 @@ star: false
 category: blog
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Pilha
-hidden: false
 ---
 
 ## Descrição

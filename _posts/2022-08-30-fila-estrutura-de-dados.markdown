@@ -1,7 +1,7 @@
 ---
 title: "Estrutura de Dados - Fila"
 layout: post
-date: 2022-08-31
+date: 2022-08-30
 headerImage: false
 tag:
     - estrutura de dados
@@ -10,7 +10,6 @@ star: false
 category: blog
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Fila
-hidden: false
 ---
 
 ## Descrição
