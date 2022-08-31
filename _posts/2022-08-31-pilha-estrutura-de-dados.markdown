@@ -19,6 +19,8 @@ Uma Pilha é uma coleção ordenada de itens que obedece ao LIFO (Last In First 
 
 > Um Exemplo de pilha na vida real é uma "Pilha de Livros".
 
+[Repositório com os Exemplos](https://github.com/sergiokopplin/livro-estrutura-de-dados-e-algoritmos-js).
+
 ## Exemplos
 
 ### Pilha com Arrays
