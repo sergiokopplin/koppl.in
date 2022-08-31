@@ -114,7 +114,6 @@ plugins:
   - jemoji
   - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-toc
 
 compress_html:
   ignore:

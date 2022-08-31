@@ -11,7 +11,6 @@ category: blog
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Pilha
 hidden: false
-toc: true
 ---
 
 ## Descrição
