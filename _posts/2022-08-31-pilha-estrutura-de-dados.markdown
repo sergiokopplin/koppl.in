@@ -11,16 +11,21 @@ category: blog
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Pilha
 hidden: false
+toc: true
 ---
+
+## Descrição
 
 Uma Pilha é uma coleção ordenada de itens que obedece ao LIFO (Last In First Out). A adição ou remoção de itens ocorre na mesma extremidade. O final é conhecido como topo e o oposto de base. Os elementos mais recentes ficam próximos ao topo, e os antigos próximos a base.
 
-Um Exemplo de pilha na vida real é uma "Pilha de Livros".
+> Um Exemplo de pilha na vida real é uma "Pilha de Livros".
 
-Exemplo de uma classe utilizando a Pilha "Stack":
+## Exemplos
+
+### Pilha com Arrays
 
 ```ts
-export class Stack {
+class Stack {
   public items: number[];
 
   constructor() {
@@ -54,120 +59,122 @@ export class Stack {
 }
 ```
 
-E os testes unitários:
+### Pilha com Objetos
 
 ```ts
-import { Stack } from './stack';
+class Stack {
+  public items: { [key: number]: number };
+  private count: number;
 
-describe('Stack', () => {
-  test('Should init with empty Array', () => {
-    const stack = new Stack();
+  constructor() {
+    this.count = 0;
+    this.items = {};
+  }
 
-    expect(stack.items).toEqual([]);
-  });
+  push(element: number) {
+    this.items[this.count] = element;
+    this.count++;
+  }
 
-  test('Should push elements on the end of pile', () => {
-    const stack = new Stack();
+  pop() {
+    if (this.isEmpty()) {
+      return undefined;
+    }
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
+    this.count--;
 
-    expect(stack.items).toEqual([2, 1, 3]);
-  });
+    const value = this.items[this.count];
+    delete this.items[this.count];
 
-  test('Should pop elements on pile', () => {
-    const stack = new Stack();
+    return value;
+  }
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
+  peek() {
+    if (this.isEmpty()) {
+      return undefined;
+    }
 
-    const value = stack.pop();
+    const value = this.items[this.count - 1];
 
-    expect(value).toBe(3);
-    expect(stack.items).toEqual([2, 1]);
-  });
+    return value;
+  }
 
-  test('Should peek the last pile element', () => {
-    const stack = new Stack();
+  toString() {
+    if (this.isEmpty()) {
+      return '';
+    }
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
+    let objString = `${this.items[0]}`;
 
-    const value = stack.peek();
+    for (let i = 1; i < this.count; i++) {
+      objString = `${objString},${this.items[i]}`;
+    }
 
-    expect(value).toBe(3);
-  });
+    return objString;
+  }
 
-  test('Should return correctly when empty pile', () => {
-    const stack = new Stack();
+  size() {
+    return this.count;
+  }
 
-    const value = stack.isEmpty();
-    expect(value).toBe(true);
-  });
+  isEmpty() {
+    return this.count === 0;
+  }
 
-  test('Should return correctly when not empty pile', () => {
-    const stack = new Stack();
+  clear() {
+    this.items = {};
+    this.count = 0;
+  }
+}
+```
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
+## Exercícios
 
-    const value = stack.isEmpty();
-    expect(value).toBe(false);
-  });
+### Decimal para Binário
 
-  test('Should return pile size when items exists', () => {
-    const stack = new Stack();
+```ts
+function decimalToBinary(decNumber: number): string {
+  const stack = new Stack();
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
+  let binaryString = '';
+  let number = decNumber;
 
-    const value = stack.size();
-    expect(value).toBe(3);
-  });
+  while (number > 0) {
+    stack.push(Math.floor(number % 2));
+    number = Math.floor(number / 2);
+  }
 
-  test('Should return pile size when pile empty', () => {
-    const stack = new Stack();
+  while (!stack.isEmpty()) {
+    binaryString += stack.pop().toString();
+  }
 
-    const value = stack.size();
-    expect(value).toBe(0);
-  });
+  return binaryString;
+}
+```
 
-  test('Should clear pile', () => {
-    const stack = new Stack();
+### Converter Bases
 
-    stack.push([2]);
-    stack.push([1]);
-    stack.push([3]);
-    stack.clear();
+```ts
+function baseConverter(decNumber: number, base: number): string {
+  const stack = new Stack();
 
-    expect(stack.items).toEqual([]);
-  });
+  let binaryString = '';
+  let number = decNumber;
+  const digits = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-  test('Should Integrate correctly', () => {
-    const stack = new Stack();
+  if (!(base >= 2 && base <= 36)) {
+    return '';
+  }
 
-    expect(stack.isEmpty()).toBe(true);
+  while (number > 0) {
+    stack.push(Math.floor(number % base));
+    number = Math.floor(number / base);
+  }
 
-    stack.push([5, 8]);
+  while (!stack.isEmpty()) {
+    binaryString += digits[stack.pop()];
+  }
 
-    expect(stack.peek()).toBe(8);
-    expect(stack.size()).toBe(2);
-
-    stack.push([11]);
-    expect(stack.size()).toBe(3);
-
-    expect(stack.isEmpty()).toBe(false);
-
-    stack.push([15]);
-    stack.pop();
-    stack.pop();
-
-    expect(stack.size()).toBe(2);
-  });
-});
+  return binaryString;
+}
 ```
