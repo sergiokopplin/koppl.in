@@ -11,7 +11,7 @@ layout: compress
 
     <meta charset="utf-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name=author content="{{ site.name }}">
+    <meta name=author content="{{ site.title }}">
 
     {% seo %}
 
@@ -23,7 +23,15 @@ layout: compress
     <script src="https://kit.fontawesome.com/d9b09040a7.js" crossorigin="anonymous"></script>
 
     <style>
-    {% if site.dark-theme %}
+    
+    {% if site.dark-theme == "auto" %}
+        {% capture scss_sheet %}
+            {% include style.scss %}
+            @media (prefers-color-scheme: dark) {
+                {% include style-dark.scss %}
+            }
+        {% endcapture %}
+    {% elsif site.dark-theme %}
         {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
     {% else %}
         {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
@@ -46,7 +54,9 @@ layout: compress
         {% endif %}
 
             {{ content }}
-        </div>
+            </div>
+                </div>
+            </div>
     </div>
 </body>
 </html>
