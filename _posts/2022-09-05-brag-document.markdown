@@ -28,4 +28,4 @@ Achei bem simples o que o Elton Minetto fez no Notion pessoal dele, e decidi ten
 
 - [https://eltonminetto.dev/post/2022-04-14-brag-document/](https://eltonminetto.dev/post/2022-04-14-brag-document/);
 - [https://jvns.ca/blog/brag-documents/](https://jvns.ca/blog/brag-documents/)
-- [https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook](https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook)
+- [https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook](https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook/dp/B08RMSHYGG/ref=sr_1_1?keywords=Staff-Engineer-Leadership-management-English-ebook&qid=1662484957&sr=8-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
