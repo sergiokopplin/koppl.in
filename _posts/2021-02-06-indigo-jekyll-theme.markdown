@@ -1,12 +1,11 @@
 ---
-title: ":ramen: Indigo, template minimalista Jekyll"
+title: ":ramen: Indigo, template desse Blog"
 layout: post
 date: 2021-02-06 09:45
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
-hidden: true
 description: "Este é um template simples e minimalista para Jekyll"
 category: project
 author: sergiokopplin
