@@ -1,5 +1,6 @@
 # main text of home
 name: Kopplin
+title: Kopplin
 bio: Dev Frontend que toca batera no final de semana
 
 # twitter summary info
@@ -71,13 +72,13 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
-notas: false
-setup: false
+notas: true
+setup: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
