@@ -2,7 +2,8 @@
 title: ":ramen: Indigo, template desse Blog"
 layout: post
 date: 2021-02-06 09:45
-tag: jekyll
+tag: 
+    - jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
