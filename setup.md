@@ -3,20 +3,14 @@ title: Setup
 layout: page
 ---
 
-# Setup
-
----
-
-## Hardware, Software e Outros para _trabalho_ e _escritório_
+# Setup para Hardware & Software
 
 <div class="breaker"></div>
 
-### _Tech_
-
 #### Hardware
 
-Trabalho / Escritório
-
+-   [Samsung S10 FE](https://www.samsung.com/br/smartphones/galaxy-s20/galaxy-s20-fe/) - smarthphone Android
+-   [Kindle Paperwhite 10ª Geração](https://www.amazon.com.br/kindle/s?k=kindle) - bom ter luz na tela para ler no escuro
 -   [Macbook Pro 2019 16 polegadas](https://support.apple.com/kb/SP809) - fornecido pela _[Loft](https://loft.com.br/)_
 -   [Monitor Dell 27](https://www.dell.com/pt-br/shop/monitor-dell-de-27-p2720d/apd/210-aulk/monitores-e-acess%C3%B3rios) - fornecido pela _[Loft](https://loft.com.br/)_
 -   [Monitor Dell 24](https://www.dell.com/pt/empresas/p/dell-u2419h-monitor/pd)
@@ -34,10 +28,7 @@ Trabalho / Escritório
 -   Iluminação - Ring Light de 26cm, genérico e comprado na Av. Paulista
 -   Iluminação - 10m de FIta Led, genérico e comprado na Av. Paulista
 
-Outros
-
--   [Samsung S10 FE](https://www.samsung.com/br/smartphones/galaxy-s20/galaxy-s20-fe/) - smarthphone Android
--   [Kindle Paperwhite 10ª Geração](https://www.amazon.com.br/kindle/s?k=kindle) - bom ter luz na tela para ler no escuro
+<div class="breaker"></div>
 
 #### Software
 
