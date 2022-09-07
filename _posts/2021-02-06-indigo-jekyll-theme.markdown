@@ -6,7 +6,7 @@ tag:
     - jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: true
+projetos: true
 description: "Este é um template simples e minimalista para Jekyll"
 category: project
 author: sergiokopplin
