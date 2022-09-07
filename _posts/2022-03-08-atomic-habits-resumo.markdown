@@ -4,7 +4,6 @@ layout: post
 date: 2022-02-08 20:55
 headerImage: false
 tag:
-    - resumo
     - livro
 star: false
 category: notas

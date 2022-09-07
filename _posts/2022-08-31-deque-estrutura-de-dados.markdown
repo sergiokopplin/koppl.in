@@ -5,7 +5,6 @@ date: 2022-08-31
 headerImage: false
 tag:
     - estrutura de dados
-    - base
 star: false
 category: blog
 author: sergiokopplin
