@@ -1,5 +1,5 @@
 ---
-title: "Brag Document"
+title: ":bowtie: Brag Document"
 layout: post
 date: 2022-09-05
 headerImage: false

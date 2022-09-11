@@ -1,5 +1,5 @@
 ---
-title: "Renderização nos Browsers"
+title: ":shipit: Renderização nos Browsers"
 layout: post
 date: 2022-09-07
 headerImage: false
