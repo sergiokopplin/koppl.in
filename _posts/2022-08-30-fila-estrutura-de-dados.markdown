@@ -1,5 +1,5 @@
 ---
-title: ":abacus: Estrutura de Dados - Fila"
+title: ":floppy_disk: Estrutura de Dados - Fila"
 layout: post
 date: 2022-08-30
 headerImage: false

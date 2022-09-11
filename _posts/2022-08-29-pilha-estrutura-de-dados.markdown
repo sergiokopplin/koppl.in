@@ -1,5 +1,5 @@
 ---
-title: ":abacus: Estrutura de Dados - Pilha"
+title: ":floppy_disk: Estrutura de Dados - Pilha"
 layout: post
 date: 2022-08-29
 headerImage: false
