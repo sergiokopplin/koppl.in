@@ -1,5 +1,5 @@
 ---
-title: "Estrutura de Dados - Lista Ligada"
+title: ":keyboard: Estrutura de Dados - Lista Ligada"
 layout: post
 date: 2022-09-11
 headerImage: false

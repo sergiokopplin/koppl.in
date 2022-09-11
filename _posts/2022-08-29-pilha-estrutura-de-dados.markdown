@@ -1,5 +1,5 @@
 ---
-title: "Estrutura de Dados - Pilha"
+title: ":keyboard: Estrutura de Dados - Pilha"
 layout: post
 date: 2022-08-29
 headerImage: false

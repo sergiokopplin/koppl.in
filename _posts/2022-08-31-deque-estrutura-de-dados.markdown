@@ -1,5 +1,5 @@
 ---
-title: "Estrutura de Dados - Deque"
+title: ":keyboard: Estrutura de Dados - Deque"
 layout: post
 date: 2022-08-31
 headerImage: false
