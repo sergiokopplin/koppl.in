@@ -1,7 +1,7 @@
 ---
 title: ":floppy_disk: Estrutura de Dados - Operações em Conjuntos"
 layout: post
-date: 2022-10-10
+date: 2022-10-09
 headerImage: false
 tag:
     - estrutura de dados

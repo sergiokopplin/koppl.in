@@ -1,7 +1,7 @@
 ---
 title: ":floppy_disk: Estrutura de Dados - Conjuntos"
 layout: post
-date: 2022-10-09
+date: 2022-10-08
 headerImage: false
 tag:
     - estrutura de dados
