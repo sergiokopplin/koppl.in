@@ -1,5 +1,5 @@
 ---
-title: ":floppy_disk: Estrutura de Dados - Dicionário"
+title: ":floppy_disk: Estrutura de Dados - Tabela de Hash (HashTable)"
 layout: post
 date: 2022-10-12
 headerImage: false
@@ -8,12 +8,12 @@ tag:
 star: false
 category: blog
 author: sergiokopplin
-description: Sobre a Estrutuda de Dados de Dicionário
+description: Sobre a Estrutuda de Dados de Tabela de Hash
 ---
 
 ## Descrição
 
-Dicionários são usados para armazenar pares (chave & valor), em que a chave pode ser usada para encontrar um elemento. Parecido com o Conjunto, porém armazenando uma coleção de elementos [chave, valor].
+Parecidos com Dicionários, porém usando uma key na Table que é gerada através de uma função de Hash, onde a key é um número gerado a partir da String passada composto por caracteres ASCII.
 
 [Repositório com os Exemplos](https://github.com/sergiokopplin/livro-estrutura-de-dados-e-algoritmos-js).
 
@@ -22,38 +22,38 @@ Dicionários são usados para armazenar pares (chave & valor), em que a chave po
 ### Dicionários
 
 ```ts
-function defaultToString(item: string) {
-  return item;
-}
+import { Dictionary, defaultToString, ValuePair } from '../dictionary/dictionary';
 
-class ValuePair {
-  key: string;
-  value: string;
-
-  constructor(key: string, value: string) {
-    this.key = key;
-    this.value = value;
-  }
-
-  toString() {
-    return `[#${this.key}: ${this.value}]`;
-  }
-}
-
-export class Dictionary {
+export class HashTable extends Dictionary {
   table: {
     [key: string]: any;
   };
   toStrFn: any;
 
   constructor(toStrFn = defaultToString) {
+    super();
     this.table = {};
     this.toStrFn = toStrFn;
   }
 
-  set(key: string, value: any): boolean {
+  loseLoseHashCode(key: string) {
+    const tableKey: string = this.toStrFn(key);
+    let hash = 0;
+
+    for (let i = 0; i < tableKey.length; i++) {
+      hash += tableKey.charCodeAt(i);
+    }
+
+    return hash % 37;
+  }
+
+  hashCode(key: string): number {
+    return this.loseLoseHashCode(key);
+  }
+
+  put(key: string, value: any): boolean {
     if (key != null && value != null) {
-      const tableKey: string = this.toStrFn(key);
+      const tableKey: number = this.loseLoseHashCode(key);
       this.table[tableKey] = new ValuePair(key, value);
 
       return true;
@@ -62,34 +62,20 @@ export class Dictionary {
     return false;
   }
 
-  has(key: string): boolean {
-    return this.table[this.toStrFn(key)] != null;
-  }
-
-  size(): number {
-    return Object.keys(this.table).length;
-  }
-
-  keys(): string[] {
-    return Object.keys(this.table).map(item => this.table[item].key);
-  }
-
-  values(): string[] {
-    return Object.keys(this.table).map(item => this.table[item].value);
-  }
-
   get(key: string): string {
-    return this.table[this.toStrFn(key)].value;
+    const tableKey: number = this.loseLoseHashCode(key);
+    return this.table[tableKey] ? this.table[tableKey].value : undefined;
   }
 
-  keyValues(): {
-    [key: string]: any;
-  }[] {
-    return Object.keys(this.table).map(item => this.table[item]);
-  }
+  remove(key: string): boolean {
+    const tableKey: number = this.loseLoseHashCode(key);
 
-  remove(key: string): void {
-    delete this.table[this.toStrFn(key)];
+    if (this.table[tableKey]) {
+      delete this.table[tableKey];
+      return true;
+    }
+
+    return false;
   }
 }
 ```
