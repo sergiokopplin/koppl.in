@@ -61,7 +61,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -90,7 +90,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog,notas]
+# post-advance-links: [blog,notas]
 
 # show author block at the end of a post ?
 show-author: false
