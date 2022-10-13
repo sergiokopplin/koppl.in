@@ -13,8 +13,6 @@ layout: page
 -   [Kindle Paperwhite 10ª Geração](https://www.amazon.com.br/kindle/s?k=kindle) - bom ter luz na tela para ler no escuro
 -   [Macbook Pro 2019 16 polegadas](https://support.apple.com/kb/SP809) - fornecido pela _[Loft](https://loft.com.br/)_
 -   [Monitor Dell 27](https://www.dell.com/pt-br/shop/monitor-dell-de-27-p2720d/apd/210-aulk/monitores-e-acess%C3%B3rios) - fornecido pela _[Loft](https://loft.com.br/)_
--   [Monitor Dell 24](https://www.dell.com/pt/empresas/p/dell-u2419h-monitor/pd)
--   [Predator Helios 300 15 polegadas](https://www.acer.com/ac/pt/PT/content/predator-models/laptops/predatorhelios300) - meu modelo é mais antigo, saiu do catálogo
 -   [Mesa Husky com Regulagem elétrica de altura](https://www.kabum.com.br/produto/135440/mesa-office-husky-technologies-900-preto-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-htct001) - para uma melhor ergonomia do dia-a-dia e com um preço ok
 -   [Cadeira DXRacer Racing](https://www.dxracer.com.br/cadeira-dxracer-racing-rw01n-8-p985975) - Cadeira Gamer mais clean que eu achei na época
 -   [Ducky One 2 SF](https://www.duckychannel.com.tw/en/Ducky-One2-SF) - 65% cabeado com switch brown Cherry MX
@@ -25,8 +23,6 @@ layout: page
 -   [MousePad Trust 93x30](https://produto.mercadolivre.com.br/MLB-1679110306-mousepad-trust-t21569-gxt-758-xxl-_JM) - ocupada a largura da mesa
 -   [Suporte Articulado de Monitor](https://www.amazon.com.br/Suporte-Monitor-Elg-F80N-Preto/dp/B0765KZ264) - para o Dell 24 que fica na vertical
 -   [Iluminação - Smart Lâmpada Positivo](https://www.positivocasainteligente.com.br/smart-lampada) - iluminação do quarto
--   Iluminação - Ring Light de 26cm, genérico e comprado na Av. Paulista
--   Iluminação - 10m de FIta Led, genérico e comprado na Av. Paulista
 
 <div class="breaker"></div>
 
@@ -43,14 +39,12 @@ Apps
 
 -   [1Password](https://1password.com/pt/) - gerenciamento de senhas
 -   [Raycast](https://www.raycast.com/) - tipo um finder para produtividade
--   [OBS](https://obsproject.com/pt-br/download) - gravação e streaming
 -   [Rectangle](https://rectangleapp.com/) - gerenciamento de janelas no macos
 -   [Spotify](https://www.spotify.com/) - música
 
 Produtividade
 
 -   [Cold Turkey](https://getcoldturkey.com/) - foco na navegação, bloqueio de endereços
--   [Fabulous](https://www.thefabulous.co/) - hábitos e foco
 -   [Notion](https://www.notion.so/pt-br) - anotações de livros e estudos
 -   [Todoist](https://todoist.com/) - tarefas simplificadas
 -   [Forest](https://www.forestapp.cc/) - pomodoro e foco
