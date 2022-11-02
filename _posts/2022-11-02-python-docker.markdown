@@ -14,7 +14,7 @@ description: Sobre como inicar com Python e Docker
 
 Um bom jeito de trabalhar com um ambiente específico é utilizando Docker.
 
-Com isso, podemos criar um `Dockerfile` que será utilizado em desenvolvimento e produção.
+Com isso, podemos criar um **Dockerfile** que será utilizado em desenvolvimento e produção.
 
 ```dockerfile
 # Selecionando a imagem base
@@ -39,7 +39,7 @@ ENV PYTHONPATH=${PYTHONPATH}/home/python/app/src
 CMD [ "tail", "-f", "/dev/null" ]
 ```
 
-Com isso, podemos configurar nosso `docker-compose.yml` para utilizar dessa configuração:
+Com isso, podemos configurar nosso **docker-compose.yml** para utilizar dessa configuração:
 
 ```yml
 # Versão do docker-compose
@@ -57,16 +57,16 @@ services:
 
 Com isso, temos nosso ambiente docker básico pronto.
 
-Um outro arquivo que pode nos ajudar, para facilitar os comandos utilizados no `Docker`, é o `Makefile`.
+Um outro arquivo que pode nos ajudar, para facilitar os comandos utilizados no **Docker**, é o **Makefile**.
 
 ```makefile
 # Sobe a imagem do container
 up:
-	docker-compose up --build
+  docker-compose up --build
 
 # Sobe a imagem do container e inicializa o bash dentro da imagem
 bash:
-	docker-compose exec app bash
+  docker-compose exec app bash
 ```
 
 ---
@@ -84,8 +84,8 @@ entities.py:
 
 ```python
 class Category:
-    def __init__(self, name) -> None:
-        self.name = name
+  def __init__(self, name) -> None:
+    self.name = name
 ```
 
 Com nosso arquivo pronto, podemos rodar o seguinte exemplo:
