@@ -49,7 +49,7 @@ Baseado no nosso projeto, eu alterei algumas coisas para que sempre que o contai
 	"workspaceFolder": "/home/python/app",
 	"remoteUser": "python",
 	"extensions": [
-		"ms-python.python",
+        "ms-python.python",
         "ms-azuretools.vscode-docker",
         "visualstudioexptteam.vscodeintellicode",
         "sourcery.sourcery",
