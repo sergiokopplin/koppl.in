@@ -18,6 +18,7 @@ layout: page
 -   [Ducky One 2 SF](https://www.duckychannel.com.tw/en/Ducky-One2-SF)
 -   [Logitech Vertical](https://www.logitech.com/pt-br/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
 -   [Anker Q30 Headphones](https://www.anker.com/products/variant/life-q30/A3028011)
+-   [QCY HT05](https://qcy.com.br/pages/ht05)
 -   [Webcam Logitech C922](https://www.logitech.com/pt-br/products/webcams/c922-pro-stream-webcam.html)
 -   [Fifine T669](https://www.fifinemicrofones.com.br/collections/mais-vendidos/products/microfone-condensador-fifine-usb-t669-com-kit-de-estudio-2)
 -   [MousePad Trust 93x30](https://produto.mercadolivre.com.br/MLB-1679110306-mousepad-trust-t21569-gxt-758-xxl-_JM)
