@@ -8,6 +8,7 @@ tag:
     - livro
 star: false
 category: notas
+hidden: true
 author: sergiokopplin
 description: Resumo do livro De Dev a Tech Lead
 hidden: true

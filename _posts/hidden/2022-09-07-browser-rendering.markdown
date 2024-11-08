@@ -7,6 +7,7 @@ tag:
     - frontend
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre o processo de renderização nos browsers
 ---

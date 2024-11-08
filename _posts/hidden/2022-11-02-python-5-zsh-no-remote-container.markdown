@@ -7,6 +7,7 @@ tag:
     - python
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre adicionar ZSH no remote container
 ---

@@ -8,6 +8,7 @@ tag:
     - testes
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre como criar o primeiro teste unitário com Python
 ---

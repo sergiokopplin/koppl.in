@@ -7,6 +7,7 @@ tag:
     - metas
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Post Inicial do meu Blog Pessoal
 ---

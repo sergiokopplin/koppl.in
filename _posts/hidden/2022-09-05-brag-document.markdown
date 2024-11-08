@@ -7,6 +7,7 @@ tag:
     - carreira
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre o Brag Document
 ---

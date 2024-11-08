@@ -7,6 +7,7 @@ tag:
     - livro
 star: false
 category: notas
+hidden: true
 author: sergiokopplin
 description: Resumo do livro Hábitos Atômicos
 ---

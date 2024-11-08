@@ -8,6 +8,7 @@ tag:
     - docker
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre como inicar com Python e Docker
 ---

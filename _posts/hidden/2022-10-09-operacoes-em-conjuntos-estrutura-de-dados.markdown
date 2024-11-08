@@ -7,6 +7,7 @@ tag:
     - estrutura de dados
 star: false
 category: blog
+hidden: true
 author: sergiokopplin
 description: Sobre a Estrutuda de Dados de Conjuntos e suas Operações
 ---
