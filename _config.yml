@@ -32,7 +32,8 @@ analytics-google: 'UA-165322929-1'
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: sergiokopplin # enter this from your disqus account
-  categories: [blog, project, notas] # only show disqus for posts that have these categories
+  categories:
+#   categories: [blog, project, notas] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -76,7 +77,7 @@ projetos: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 notas: false
 setup: true
 
@@ -115,6 +116,7 @@ plugins:
   - jemoji
   - jekyll-paginate-v2
   - jekyll-redirect-from
+  - jekyll-diagrams
 
 compress_html:
   ignore:
