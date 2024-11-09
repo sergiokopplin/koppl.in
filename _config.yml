@@ -99,9 +99,6 @@ show-author: false
 # do you want some animations?
 animation: true
 
-mermaid:
-  src: '/assets/js/mermaid.js'
-
 # add default values to specific pages or layouts
 defaults:
   - scope:
@@ -120,8 +117,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
   
-gems: [jekyll-mermaid]
-
 compress_html:
   ignore:
     envs:

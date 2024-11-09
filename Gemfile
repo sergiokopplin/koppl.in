@@ -8,7 +8,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'jekyll-paginate-v2', '~> 2.0'
     gem 'html-proofer'
-    gem 'jekyll-mermaid'
 end
 
 gem 'webrick', '~> 1.7'
