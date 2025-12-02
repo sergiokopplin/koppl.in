@@ -9,8 +9,8 @@ layout: page
 
 #### Hardware
 
--   Samsung S22 Ultra
--   [Kindle Paperwhite 10ª](https://www.amazon.com.br/kindle/s?k=kindle)
+-   Iphone 15
+-   Apple Watch Ultra 3
 -   [Macbook Pro m2 Pro](https://support.apple.com)
 -   [Dell 34x22](https://www.dell.com/en-us/shop/monitor-curvo-wqhd-34-dell-s3422dwg/apd/210-azep/monitores-e-acess%C3%B3rios)
 -   [Husky Table](https://www.kabum.com.br/produto/135440/mesa-office-husky-technologies-900-preto-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-htct001)
@@ -18,7 +18,9 @@ layout: page
 -   [Keychon V2 Max](https://www.keychron.com/products/keychron-v2-max-qmk-via-wireless-custom-mechanical-keyboard)
 -   [Old - Ducky One 2 SF](https://www.duckychannel.com.tw/en/Ducky-One2-SF)
 -   [Logitech Vertical](https://www.logitech.com/pt-br/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
--   [Anker Q30 Headphones](https://www.anker.com/products/variant/life-q30/A3028011)
+-   Air Pods Pro 3
+-   [Old - Redmi Buds Pro 5](https://www.mi.com/global/product/redmi-buds-5-pro/)
+-   [Old - Anker Q30 Headphones](https://www.anker.com/products/variant/life-q30/A3028011)
 -   [Redmi Buds Pro 5](https://www.mi.com/global/product/redmi-buds-5-pro/)
 -   [Webcam Logitech C922](https://www.logitech.com/pt-br/products/webcams/c922-pro-stream-webcam.html)
 -   [Fifine T669](https://www.fifinemicrofones.com.br/collections/mais-vendidos/products/microfone-condensador-fifine-usb-t669-com-kit-de-estudio-2)
