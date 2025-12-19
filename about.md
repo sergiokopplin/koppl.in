@@ -15,3 +15,4 @@ Working as Frontend Developer for [Alpha Sights](https://www.alphasights.com/) s
 In free time, musician.
 Discipleship and Leadership at Presbiterian Church.
 
+[Factorio Gamer](https://factorio.com/galaxy/Calcite%20I:%20Delta4-5.B4Y1)
